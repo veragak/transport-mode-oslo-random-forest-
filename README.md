@@ -9,7 +9,7 @@ The goal is to model commuters’ choice between **car** and **public transport*
 
 `transport-mode-oslo-random-forest/`
 - `data/`
-  - TransportModeSweden.2526.RData       
+  - The dataset used in this project cannot be shared due to course policies.
 - `R/`
   - 01_random_forest_transport_mode.R    # main analysis script
 - `report/`
