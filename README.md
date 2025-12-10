@@ -83,6 +83,6 @@ To reproduce the analysis:
 
 ## Author
 
-Name: Vera Gak Anagrova
-Course: FEM11152 – Data Science for Marketing Analytics
-Institution: Erasmus School of Economics
+- Name: Vera Gak Anagrova
+- Course: FEM11152 – Data Science for Marketing Analytics
+- Institution: Erasmus School of Economics
