@@ -8,17 +8,17 @@ The goal is to model commuters’ choice between **car** and **public transport*
 ## Project Structure
 
 `transport-mode-oslo-random-forest/`
-├── `data/`
-│   └── TransportModeSweden.2526.RData       
-├── `R/`
-│   └── 01_random_forest_transport_mode.R    # main analysis script
-├── `report/`
-│   ├── IndividualAssignment.Rmd             # report source (R Markdown)
-│   └── IndividualAssignment.pdf             # final rendered report
-├── `figures/`
-│   ├── confusion_matrix_heatmap.png         # Figure 1 (optional export)
-│   └── pdp_top_predictors.png               # Figure 2 (optional export)
-└── `README.md`
+- `data/`
+  - TransportModeSweden.2526.RData       
+- `R/`
+  - 01_random_forest_transport_mode.R    # main analysis script
+- `report/`
+  - IndividualAssignment.Rmd             # report source (R Markdown)
+  - IndividualAssignment.pdf             # final rendered report
+- `figures/`
+  - confusion_matrix_heatmap.png         # Figure 1 (optional export)
+  - pdp_top_predictors.png               # Figure 2 (optional export)
+- `README.md`
 
 ## Data Description
 
